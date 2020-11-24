@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Jeremy 👋</h1>
 <img src="https://cdn.discordapp.com/attachments/399320710679625747/780776456321761301/JF-admin.png" style="max-width:100%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
